@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioNubank.Console", "DesafioNubank.Console\DesafioNubank.Console.csproj", "{DA347E2F-090A-4BD2-B3CF-5BA15077AB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioNubank.Tests", "DesafioNubank.Tests\DesafioNubank.Tests.csproj", "{EB68B1C9-7B7D-4C7B-AD0D-A65763AA752B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA347E2F-090A-4BD2-B3CF-5BA15077AB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA347E2F-090A-4BD2-B3CF-5BA15077AB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA347E2F-090A-4BD2-B3CF-5BA15077AB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA347E2F-090A-4BD2-B3CF-5BA15077AB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB68B1C9-7B7D-4C7B-AD0D-A65763AA752B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB68B1C9-7B7D-4C7B-AD0D-A65763AA752B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB68B1C9-7B7D-4C7B-AD0D-A65763AA752B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB68B1C9-7B7D-4C7B-AD0D-A65763AA752B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
